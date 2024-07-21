@@ -6,3 +6,4 @@ seaborn
 Flask
 requests
 jsonify
+gunicorn
