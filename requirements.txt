@@ -6,4 +6,4 @@ seaborn
 Flask
 requests
 jsonify
-randor-template
+render_template
