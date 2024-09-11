@@ -1,5 +1,6 @@
 # Algerian_Fire_prediction_ML
 
+For understand the deployment of ML model for education purpose i created model for algerian fire prediction and deploy on render.
 
 # Dataset Overview 
 
